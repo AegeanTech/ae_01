@@ -1,0 +1,9 @@
+.bgimage {
+background-image: url(images/responsive-background.jpg);
+background-size: 100%;
+opacity: .5;
+}
+
+.bgimage-inside {
+padding-top: 37.36%; /* this is actually (426/1140)*100 */
+}

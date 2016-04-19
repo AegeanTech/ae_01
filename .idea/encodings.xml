@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/AuthController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/ContactController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/gr/auth/message.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/gr/button.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/gr/general.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/gr/groups/form.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/gr/groups/table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/gr/groups/title.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/lang/gr/users/title.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/404.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/deleted_users.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/groups/create.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/groups/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/login.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/maintenance.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/users/create.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/users/edit.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/users/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/admin/users/show.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/emails/forgot-password.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/emails/layouts/contact.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/emails/layouts/default.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/emails/layouts/message.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/emails/register-activate.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/home.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/frontend/contact.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/frontend/description.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/frontend/features.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/frontend/index.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/frontend/login.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/frontend/pricing.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/help.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/pages/welcome.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/partials/errors.blade.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/views/partials/success.blade.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
